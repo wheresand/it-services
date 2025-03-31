@@ -14,7 +14,7 @@
         <!-- Left Section -->
         <div class="col-md-6 d-flex flex-column justify-content-center">
             <h3 class="fw-bold">Let's get started</h3>
-            <p>บริการทางเทคโนโลยีสารสนเทศหรือ "IT Services" คือ...</p>
+            <p>บริการทางเทคโนโลยีสารสนเทศหรือ "IT Services" คือ บริการที่เกี่ยวข้องกับการใช้เทคโนโลยีสารสนเทศและคอมพิวเตอร์เพื่อสนับสนุนธุรกิจและการดำเนินงานต่าง</p>
             <div class="form-check">
                 <input class="form-check-input" type="radio" name="serviceOption" id="registerOption">
                 <label class="form-check-label" for="registerOption">
@@ -29,7 +29,7 @@
             </div>
             <div class="mt-3">
                 <a href="login" class="btn btn-dark">Log in</a>
-                <a href="register.html" class="btn btn-dark">Register</a>
+                <a href="#" class="btn btn-dark">Register</a>
             </div>
         </div>
 
