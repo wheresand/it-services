@@ -1,0 +1,23 @@
+# Ignore .env file (used for environment variables)
+.env
+
+# Ignore the vendor directory (Composer dependencies)
+vendor/
+
+
+# Ignore system files (macOS, Windows, etc.)
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore PHP error logs
+*.phar
+*.cache
+
+# Ignore IDE/editor configurations
+.idea/
+.vscode/
+
+# Ignore Composer's vendor directory
+/vendor/
