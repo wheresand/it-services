@@ -57,7 +57,7 @@
 
         <div class="row">
           <div class="col-12 pt-2 text-center">
-            <div class="g-recaptcha" data-sitekey="6LdRhAUrAAAAAEQtyWO_qGi_rUntTwyDeY9T1BWn"></div>
+            <div class="g-recaptcha" data-sitekey="6Lf1lQ4rAAAAAM60OtGqd_K3p9J1hEB_QyHWDo3f"></div>
           </div>
           <div class="col-12 mt-3">
             <button type="submit" class="btn btn-primary btn-block">Sign In</button>

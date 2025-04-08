@@ -29,7 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     // Verify reCAPTCHA v2
-    $recaptchaSecret = '6LdRhAUrAAAAACKYCnVNU8oxWP-1mGP5ZmR754hD'; // Replace with your actual secret key
+    $recaptchaSecret = '6Lf1lQ4rAAAAAHWSkOxzsU2aeVV_Cxzi49QmtCOW'; // Replace with your actual secret key
     $recaptchaUrl = 'https://www.google.com/recaptcha/api/siteverify';
 
     $response = file_get_contents("$recaptchaUrl?secret=$recaptchaSecret&response=$recaptchaResponse");
